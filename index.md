@@ -18,10 +18,20 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     <h3>EcoDynElec</h3>
     <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
     <p class="tool-keywords"><em>Mots-clés : SIA 2032, KBOB, Matériaux, Suisse Romande</em></p>
-    <div class="card-links">
-      <a href="#" class="btn-github">GitHub</a>
-      <a href="#" class="btn-demo">[Outil Web](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)</a>
-    </div>
+  <div class="card-links">
+    <a href="https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec" 
+       class="btn-demo" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       Accéder à l'outil
+    </a>
+    <a href="https://github.com/HEIG-VD-Building-LCA/EcoDynElec" 
+       class="btn-github" 
+       target="_blank" 
+       rel="noopener noreferrer">
+       GitHub
+    </a>
+</div>
     <div class="tool-citation">
       <strong>Publication :</strong> <br>
       <em>https://doi.org/10.1016/j.softx.2023.101485</em>
