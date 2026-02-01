@@ -105,11 +105,6 @@
   transform: translateY(3px); /* La flèche descend au survol */
 }
 
-.tool-card p {
-  margin-bottom: 8px; /* Réduit l'espace sous la description principale */
-    padding-top: 0px;
-}
-
 /* Style pour les mots-clés en italique */
 .tool-keywords {
   font-size: 0.85rem;
@@ -169,6 +164,11 @@
   color: #24292e;      /* Couleur sombre type GitHub */
   line-height: 1.2;
   padding: 0;
+}
+
+.tool-card p {
+  margin-bottom: 8px; /* Réduit l'espace sous la description principale */
+    padding-top: 8px;
 }
 
 .tool-meta {
