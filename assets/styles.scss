@@ -60,5 +60,31 @@
   border: 1px solid #333;
 }
 
+/* Style pour les mots-clés en italique */
+.tool-keywords {
+  font-size: 0.85rem;
+  color: #6a737d; /* Gris moyen */
+  margin: 10px 0;
+  line-height: 1.4;
+}
+
+/* Style pour le bloc "Merci de citer" */
+.tool-citation {
+  font-size: 0.75rem;
+  background-color: #f6f8fa; /* Gris très clair, style GitHub */
+  border-left: 3px solid #007bff; /* Barre bleue rappelant le côté académique */
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 0 4px 4px 0;
+  color: #444;
+}
+
+.tool-citation strong {
+  color: #007bff;
+  display: block;
+  margin-bottom: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
 .btn-github { background: #24292e; color: #fff !important; }
 .btn-demo { background: #fff; color: #24292e !important; }
