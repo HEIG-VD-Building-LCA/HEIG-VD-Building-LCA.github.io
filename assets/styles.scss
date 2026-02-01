@@ -60,7 +60,7 @@
   gap: 10px;
 }
 
-.btn-github, .btn-demo {
+.btn-github, .btn-demo, .btn-download {
   text-decoration: none !important;
   font-size: 0.9rem;
   padding: 6px 12px;
@@ -70,6 +70,7 @@
 
 .btn-github { background: #24292e; color: #fff !important; }
 .btn-demo { background: #FBB13C; color: #24292e !important;   transition: all 0.3s ease}
+.btn-download { background: #90B494; color: #24292e !important; transition: all 0.3s ease}
 
 .btn-demo:hover {
   background-color: #ffc752 !important;
@@ -87,6 +88,22 @@
   margin-left: 12px;
 }
 
+.btn-download:hover {
+  background-color: #004494 !important;
+  transform: translateY(1px); /* Effet d'enfoncement vers le bas */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Animation de la flèche vers le bas */
+.btn-download::after {
+  content: " ↓";
+  margin-left: 8px;
+  transition: transform 0.3s ease;
+}
+
+.btn-download:hover::after {
+  transform: translateY(3px); /* La flèche descend au survol */
+}
 
 /* Style pour les mots-clés en italique */
 .tool-keywords {
