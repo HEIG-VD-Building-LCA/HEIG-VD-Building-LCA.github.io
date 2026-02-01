@@ -39,7 +39,7 @@ navigation_header:
 - title: À propos
   url: /about/
 - title: Publications
-  url: /blog/
+  url: /publications.md
 
 # Footer nav
 navigation_footer:
