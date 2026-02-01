@@ -19,7 +19,6 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
         alt="EcoDynElec : outil d'ACV dynamique de l'électricité en Europe"
         class="tool-logo">
       <h3>EcoDynElec</h3>
-      <div class="status-badge stable">Stable</div>
     </div>
     <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
     <p class="tool-keywords"><em>Mots-clés : ACV dynamique, Mix électrique, Europe, Données horaires</em></p>
