@@ -185,3 +185,47 @@
   font-weight: bold;
   color: #333;
 }
+
+/* Style du bloc déroulant */
+details.tool-citation {
+  background-color: #f6f8fa;
+  border-left: 3px solid #007bff;
+  border-radius: 0 4px 4px 0;
+  margin-top: 15px;
+  padding: 8px 12px;
+  cursor: pointer; /* Indique que c'est cliquable */
+  transition: background 0.3s ease;
+}
+
+details.tool-citation:hover {
+  background-color: #ebf3ff; /* Changement de couleur au survol */
+}
+
+/* Style du titre cliquable */
+details.tool-citation summary {
+  font-size: 0.75rem;
+  color: #007bff;
+  list-style: none; /* Cache la flèche par défaut sur certains navigateurs */
+  outline: none;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Ajout d'un petit indicateur (+) devant le titre */
+details.tool-citation summary::before {
+  content: "+ ";
+  font-weight: bold;
+}
+
+/* Change l'indicateur quand c'est ouvert (-) */
+details[open].tool-citation summary::before {
+  content: "− ";
+}
+
+/* Espace à l'intérieur une fois ouvert */
+details.tool-citation p {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 0.75rem;
+  color: #444;
+}
