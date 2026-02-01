@@ -106,10 +106,10 @@
 }
 
 .tool-logo {
-  width: 45px;         /* Taille de l'icône */
-  height: 45px;
+  width: 90px;         /* Taille de l'icône */
+  height: 90px;
   object-fit: contain; /* Évite de déformer l'image */
-  border-radius: 4px;  /* Optionnel : coins arrondis pour l'icône */
+  border-radius: 0px;  /* Optionnel : coins arrondis pour l'icône */
 }
 
 .card-header h3 {
