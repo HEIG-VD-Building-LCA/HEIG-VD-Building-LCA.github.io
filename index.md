@@ -48,8 +48,7 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 
 <div class="tool-card">
   <div class="card-header">
-    <img src="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/EcoDynElec/main/docs/images/Logo_colored_variant.png" class="tool-logo">
-    <h3>EcoDynElec</h3>
+    <h3>Calculateur Réemploi : transport et stockage</h3>
   </div>
 
   <div class="card-links">
