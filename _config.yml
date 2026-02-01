@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Outils ACV et écobilan des bâtiments'
 description: 'Plateforme de l’Institut des Énergies (HEIG-VD) dédiée aux outils open-source pour l’écobilan, la performance énergétique et l’analyse du cycle de vie (ACV) des bâtiments en Suisse Romande.'
 permalink: pretty
-logo: "assets/img/IE_HEIG-VD_logotype_rouge_rvb.png"
+logo: "/assets/logos/logo.svg"
 
 # Pagination
 paginate: 5
