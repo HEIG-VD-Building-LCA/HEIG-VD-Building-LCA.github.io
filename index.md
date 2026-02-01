@@ -94,8 +94,8 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     <div class="card-header">
       <h3>CAS HES-SO Écobilan dans le domaine de la construction</h3>
     </div>
-    <p>Formation continue en écobilan des bâtiments sur tout leur cycle de vie. <a href="[https://www.aramis.admin.ch/Texte/?ProjectID=48238](https://heig-vd.ch/formation/formation-continue/cas-hes-so-ecobilan-dans-le-domaine-de-la-construction-eco)" target="_blank" rel="noopener noreferrer">
-       Lien vers la formation sur le site de la HEIG-VD.
+    <p>Formation continue en français et en Suisse Romande. <a href="[https://www.aramis.admin.ch/Texte/?ProjectID=48238](https://heig-vd.ch/formation/formation-continue/cas-hes-so-ecobilan-dans-le-domaine-de-la-construction-eco)" target="_blank" rel="noopener noreferrer">
+       Lien officiel vers la formation (HEIG-VD).
       </a></p>
     <p class="tool-keywords"><em>Mots-clés : Formation continue</em></p>
   </div>
