@@ -105,12 +105,16 @@
   transform: translateY(3px); /* La flèche descend au survol */
 }
 
+.tool-card p {
+  margin-bottom: 8px; /* Réduit l'espace sous la description principale */
+}
+
 /* Style pour les mots-clés en italique */
 .tool-keywords {
   font-size: 0.85rem;
   color: #6a737d; /* Gris moyen */
   margin: 0px 0;
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 /* Style pour le bloc "Merci de citer" */
