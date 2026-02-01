@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Ressources
   url: /
 - title: À propos
   url: /about/
