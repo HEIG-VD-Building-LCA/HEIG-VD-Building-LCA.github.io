@@ -85,7 +85,16 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
       </p>
     </details>
   </div>
-
+  
+  <div class="tool-card">
+    <div class="card-header">
+      <h3>REMCO - État des lieux sur le réemploi de matériaux de construction en Suisse romande</h3>
+    </div>
+    <p>Projet HES-SO (2023-2024). <a href="https://www.hesge.ch/hepia/recherche-developpement/projets-recherche/remco" target="_blank" rel="noopener noreferrer">
+        Rapport, article de conférence et fiches des cas d'étude sur le site de l'HEPIA
+      </a></p>
+    <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Données d'écobilan</em></p>
+  </div>
 </div>
 
 # Formation
