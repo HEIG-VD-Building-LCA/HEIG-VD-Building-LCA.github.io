@@ -1,8 +1,8 @@
 ---
-title: Écobilan bâtiments et énergie
+title: Comment réussir à décarboner les bâtiments grâce aux écobilans et analyses de cycle de vie ?
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Écobilan et analyse de cycle de vie des bâtiments et de l'énergie | HEIG-VD
+  ## Écobilan des bâtiments et de l'énergie | HEIG-VD
   Outils _open-source_, données, résultats de recherche, formation
 excerpt: "Portail de ressources de l'Institut des Énergies (HEIG-VD). Nous développons des solutions _open-source_ pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande (SIA, KBOB)"
 ---
