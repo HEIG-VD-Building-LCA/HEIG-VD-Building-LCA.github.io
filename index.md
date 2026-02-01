@@ -19,6 +19,6 @@ Connaître les impacts carbone de l'électricité consommée en Suisse (mais aus
 # Résultats de recherche
 ##### Reuse-LCA (OFEN 2021-2025)
 _réemploi_, _circularité_, _cas d'études_
-- [Rapport du projet sur le site Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)
-- [Visualisation Web des résultats des cas d'étude](https://heig-vd-building-lca.github.io/Reuse-LCA)
+- [Rapport du projet sur Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)
+- [Visualisation Web des résultats de bâtiment](https://heig-vd-building-lca.github.io/Reuse-LCA)
 
