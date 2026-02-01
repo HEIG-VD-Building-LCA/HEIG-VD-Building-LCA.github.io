@@ -58,7 +58,7 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
   </div>
 
   <div class="card-links">
-    <a href="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/EcoDynElec/main/tools/setup.exe" class="btn-download" download>
+    <a href="https://github.com/HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io/blob/main/tools/transport_LCA_tool.xlsx" class="btn-download" download>
       Télécharger
     </a>
   </div>
