@@ -61,7 +61,7 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 </div>
 
 # Résultats de recherche
-##### Reuse-LCA (OFEN 2021-2025)
+##### Reuse-LCA - Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses
 _réemploi_, _circularité_, _cas d'études_
 - [Rapport du projet sur Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)
 - [Visualisation Web des résultats de bâtiment](https://heig-vd-building-lca.github.io/Reuse-LCA)
@@ -69,29 +69,21 @@ _réemploi_, _circularité_, _cas d'études_
 <div class="tool-grid">
   <div class="tool-card">
     <div class="card-header">
-      <h3>Reuse-LCA (OFEN 2021-2025)</h3>
+      <h3>Reuse-LCA - Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses</h3>
     </div>
-    <p></p>
+    <p>Projet OFEN (2021-2025). Rapport en anglais disponible sur [Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)</p>
     <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Méthodologie ACV</em></p>
     <div class="card-links">
       <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
          class="btn-demo" 
          target="_blank" 
          rel="noopener noreferrer">
-         Visualisation Web des résultats
-      </a>
-      <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
-         class="btn-demo" 
-         target="_blank" 
-         rel="noopener noreferrer">
-         Visualisation Web des résultats
+         Résultats des cas pilotes
       </a>
   </div>
     <details class="tool-citation">
       <summary><strong>Publication</strong></summary>
       <p>
-      Lédée, F., Padey, P., Goulouti, K., Lasvaux, S., & Beloin-Saint-Pierre, D. (2023). EcoDynElec: Open Python package to create historical profiles of environmental impacts from regional electricity mixes. SoftwareX, 23, 101485. 
-      <a href="https://doi.org/10.1016/j.softx.2023.101485" target="_blank" rel="noopener">DOI: 10.1016/j.softx.2023.101485</a>
       </p>
     </details>
   </div>
