@@ -22,7 +22,7 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
       <h3>EcoDynElec</h3>
     </div>
     <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
-    <p class="tool-keywords"><em>Mots-clés : ACV dynamique, Réseau électrique, Europe, Données horaires</em></p>
+    <p class="tool-keywords"><em>Mots-clés : ACV dynamique, Mix électrique, Europe, Données horaires</em></p>
     <div class="card-links">
       <a href="https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec" 
          class="btn-demo" 
