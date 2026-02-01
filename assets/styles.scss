@@ -81,12 +81,22 @@
   font-size: 0.75rem;
   background-color: #f6f8fa; /* Gris très clair, style GitHub */
   border-left: 3px solid #007bff; /* Barre bleue rappelant le côté académique */
-  padding: 10px;
+  padding: 10px 10px 2px 10px; 
   margin-top: 15px;
   border-radius: 0 4px 4px 0;
   color: #444;
 }
 
+/* Supprimer la marge du paragraphe interne qui crée le vide */
+.tool-citation p {
+  margin-bottom: 8px !important; /* Réduit l'espace sous le texte de citation */
+}
+
+/* Si vous avez un lien DOI en dessous, on réduit aussi son espacement */
+.tool-citation a {
+  display: inline-block;
+  margin-bottom: 5px;
+}
 .tool-citation strong {
   color: #007bff;
   display: block;
