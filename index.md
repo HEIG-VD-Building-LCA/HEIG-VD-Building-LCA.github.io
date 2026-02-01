@@ -17,21 +17,21 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     <div class="status-badge stable">Stable</div>
     <h3>EcoDynElec</h3>
     <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
-    <p class="tool-keywords"><em>Mots-clés : SIA 2032, KBOB, Matériaux, Suisse Romande</em></p>
-  <div class="card-links">
-    <a href="https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec" 
-       class="btn-demo" 
-       target="_blank" 
-       rel="noopener noreferrer">
-       Accéder à l'outil
-    </a>
-    <a href="https://github.com/HEIG-VD-Building-LCA/EcoDynElec" 
-       class="btn-github" 
-       target="_blank" 
-       rel="noopener noreferrer">
-       GitHub
-    </a>
-</div>
+    <p class="tool-keywords"><em>Mots-clés : ACV dynamique, réseau électrique</em></p>
+    <div class="card-links">
+      <a href="https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec" 
+         class="btn-demo" 
+         target="_blank" 
+         rel="noopener noreferrer">
+         Accéder à l'outil
+      </a>
+      <a href="https://github.com/HEIG-VD-Building-LCA/EcoDynElec" 
+         class="btn-github" 
+         target="_blank" 
+         rel="noopener noreferrer">
+         GitHub
+      </a>
+  </div>
     <div class="tool-citation">
       <strong>Publication :</strong> <br>
       <em>https://doi.org/10.1016/j.softx.2023.101485</em>
@@ -39,28 +39,6 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
   </div>
 
 </div>
-
-<div class="tool-card">
-    <div class="status-badge stable">Stable</div>
-    <h3>Calculateur ACV-SIA</h3>
-    <p>Outil d'estimation rapide de l'énergie grise et du carbone selon la norme SIA 2032.</p>
-    
-    <p class="tool-keywords"><em>Mots-clés : SIA 2032, KBOB, Matériaux, Suisse Romande</em></p>
-    
-    <div class="tool-citation">
-      <strong>Merci de citer :</strong> <br>
-      <em>Jean, A. et al. (2024). "Open-source LCA for Swiss Buildings". Journal of Physics, DOI: 10.1234/example.</em>
-    </div>
-
-    <div class="card-links">
-      <a href="#" class="btn-github">GitHub</a>
-      <a href="#" class="btn-demo">Accéder à l'outil</a>
-    </div>
-  </div>
-
-##### [EcoDynElec](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)
-_ACV dynamique_, _réseau électrique_
-
 
 # Résultats de recherche
 ##### Reuse-LCA (OFEN 2021-2025)
