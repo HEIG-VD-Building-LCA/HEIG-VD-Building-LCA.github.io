@@ -105,3 +105,5 @@ _réemploi_, _circularité_, _cas d'études_
   </div>
 
 </div>
+
+<script src="{{ '/assets/js/tools-metadata.js' | relative_url }}"></script>
