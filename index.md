@@ -8,8 +8,8 @@ excerpt: "Portail de ressources de l'Institut des Énergies (HEIG-VD). Nous dév
 ---
 Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan et analyse de cycle de vie pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande. Ces développements sont compatibles SIA et KBOB.
 
-# Outils
-### Volet énergie
+# Outils et données
+### Énergie en exploitation des bâtiments
 ##### [EcoDynElec](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)
 _ACV dynamique_, _réseau électrique_
 
