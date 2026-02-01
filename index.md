@@ -65,20 +65,20 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 <div class="tool-grid">
   <div class="tool-card">
     <div class="card-header">
-      <h3>Reuse-LCA - Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses</h3>
+      <h3>Reuse-LCA</h3>
     </div>
-    <p>Projet OFEN (2021-2025). <a href="https://www.aramis.admin.ch/Texte/?ProjectID=48238" target="_blank" rel="noopener noreferrer">
-        Rapport en anglais disponible sur Aramis
-      </a></p>
+    <p>Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses. Projet OFEN (2021-2025).</p>
     <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Méthodologie ACV</em></p>
     <div class="card-links">
-      <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
-         class="btn-demo" 
-         target="_blank" 
-         rel="noopener noreferrer">
+      <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" class="btn-demo" target="_blank" rel="noopener noreferrer">
          Résultats des cas pilotes
       </a>
-  </div>
+    </div>
+    <div class="card-links">
+      <a href="https://www.aramis.admin.ch/Texte/?ProjectID=48238" class="btn-demo" target="_blank" rel="noopener noreferrer">
+         Rapport (en anglais)
+      </a>
+    </div>
     <details class="tool-citation">
       <summary><strong>Publication</strong></summary>
       <p>
@@ -88,12 +88,15 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
   
   <div class="tool-card">
     <div class="card-header">
-      <h3>REMCO - État des lieux sur le réemploi de matériaux de construction en Suisse romande</h3>
+      <h3>REMCO</h3>
     </div>
-    <p>Projet HES-SO (2023-2024). <a href="https://www.hesge.ch/hepia/recherche-developpement/projets-recherche/remco" target="_blank" rel="noopener noreferrer">
-        Rapport, article de conférence et fiches des cas d'étude sur le site de l'HEPIA
-      </a></p>
+    <p>État des lieux sur le réemploi de matériaux de construction en Suisse romande. Projet HES-SO (2023-2024).</p>
     <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Données d'écobilan</em></p>
+    <div class="card-links">
+      <a href="https://www.hesge.ch/hepia/recherche-developpement/projets-recherche/remco" class="btn-demo" target="_blank" rel="noopener noreferrer">
+         Rapport, article de conférence et fiches des cas d'étude sur le site de l'HEPIA
+      </a>
+    </div>
   </div>
 </div>
 
