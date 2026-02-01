@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://heig-vd-building-lca.github.io/'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Outils ACV et écobilan des bâtiments'
+description: 'Plateforme de l’Institut des Énergies (HEIG-VD) dédiée aux outils open-source pour l’écobilan, la performance énergétique et l’analyse du cycle de vie (ACV) des bâtiments en Suisse Romande.'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "assets/img/IE_HEIG-VD_logotype_rouge_rvb.png"
 
 # Pagination
 paginate: 5
@@ -70,3 +70,5 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+keywords: "KBOB, SIA 2032, Minergie-ECO, ACV bâtiment, Suisse, Romandie, HEIG-VD"
