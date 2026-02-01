@@ -46,6 +46,24 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     </div>
   </div>
 
+<div class="tool-card">
+  <div class="card-header">
+    <img src="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/EcoDynElec/main/docs/images/Logo_colored_variant.png" class="tool-logo">
+    <h3>EcoDynElec</h3>
+  </div>
+
+  <div class="tool-meta">
+    <small>Mise à jour : <span class="gh-date" data-repo="HEIG-VD-Building-LCA/EcoDynElec" data-path="tools/setup.exe">...</span></small><br>
+    <small>Taille : <span class="gh-size" data-repo="HEIG-VD-Building-LCA/EcoDynElec" data-path="tools/setup.exe">...</span></small>
+  </div>
+
+  <div class="card-links">
+    <a href="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/EcoDynElec/main/tools/setup.exe" class="btn-download" download>
+      Télécharger
+    </a>
+  </div>
+</div>
+
 </div>
 
 # Résultats de recherche
