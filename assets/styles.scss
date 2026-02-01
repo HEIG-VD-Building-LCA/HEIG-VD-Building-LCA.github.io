@@ -246,3 +246,57 @@ details.tool-citation p {
   font-size: 0.75rem;
   color: #444;
 }
+
+/* Style pour la page Publications */
+.citations-container {
+    margin-top: 2rem;
+}
+
+.citation-item {
+    padding: 1.2rem 0;
+    border-bottom: 1px solid #eee;
+    line-height: 1.6;
+}
+
+.citation-item:last-child {
+    border-bottom: none;
+}
+
+.citation-text {
+    font-size: 0.95rem;
+    color: #333;
+}
+
+.citation-text i {
+    font-style: italic;
+}
+
+.citation-text a {
+    color: #e1251b; /* Rouge HEIG-VD */
+    word-break: break-all;
+    text-decoration: none;
+}
+
+.citation-text a:hover {
+    text-decoration: underline;
+}
+
+.citation-meta {
+    margin-top: 0.6rem;
+}
+
+.citation-type {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f0f0f0;
+    color: #666;
+    border: 1px solid #ddd;
+}
+
+/* Couleurs spécifiques par type (optionnel) */
+.citation-type:contains('article') { background-color: #e3f2fd; color: #1976d2; }
+.citation-type:contains('report') { background-color: #f1f8e9; color: #388e3c; }
