@@ -4,6 +4,12 @@
 
 @import "alembic";
 
+.site-logo {
+  height: 60px; /* Ajustez selon vos besoins */
+  width: auto;
+  display: block;
+}
+
 // Vos styles personnalisés pour la grille d'outils
 .tool-grid {
   display: grid;
