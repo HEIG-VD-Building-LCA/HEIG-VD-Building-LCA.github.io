@@ -1,12 +1,12 @@
 ---
-title: Comment réussir à décarboner les bâtiments grâce aux écobilans et analyses de cycle de vie ?
+title: Comment décarboner les bâtiments neufs et existants ?
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Écobilan des bâtiments et de l'énergie | HEIG-VD
   Outils _open-source_, données, résultats de recherche, formation
 excerpt: "Portail de ressources de l'Institut des Énergies (HEIG-VD). Nous développons des solutions _open-source_ pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande (SIA, KBOB)"
 ---
-Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande (SIA, KBOB).
+Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan et analyse de cycle de vie pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande. Ces développements sont compatibles SIA et KBOB.
 
 # Outils
 ### Volet énergie
