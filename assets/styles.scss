@@ -203,26 +203,39 @@ details.tool-citation:hover {
 
 /* Style du titre cliquable */
 details.tool-citation summary {
+  display: flex;
+  justify-content: space-between; /* Aligne le texte à gauche et l'icône à droite */
+  align-items: center;
   font-size: 0.75rem;
   color: #007bff;
-  list-style: none; /* Cache la flèche par défaut sur certains navigateurs */
+  list-style: none; /* Cache la flèche par défaut de HTML5 */
   outline: none;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
-/* Ajout d'un petit indicateur (+) devant le titre */
-details.tool-citation summary::before {
-  content: "+ ";
+/* Cache la flèche par défaut spécifique à Safari */
+details.tool-citation summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Création du symbole chevron à droite */
+details.tool-citation summary::after {
+  content: "⌄"; /* Symbole chevron vers le bas */
+  font-size: 1.4rem;
   font-weight: bold;
+  line-height: 0;
+  transition: transform 0.3s ease; /* Animation de rotation */
+  margin-bottom: 5px; /* Ajustement vertical si nécessaire */
 }
 
-/* Change l'indicateur quand c'est ouvert (-) */
-details[open].tool-citation summary::before {
-  content: "− ";
+/* Rotation du symbole quand le bloc est ouvert (regarde vers le haut) */
+details[open].tool-citation summary::after {
+  transform: rotate(180deg);
+  margin-bottom: -5px; /* Ajustement pour compenser la rotation */
 }
 
-/* Espace à l'intérieur une fois ouvert */
+/* Texte de la citation une fois déroulé */
 details.tool-citation p {
   margin-top: 10px;
   margin-bottom: 0;
