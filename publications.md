@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /publications.md
 ---
 
 <div class="meta">
