@@ -10,10 +10,23 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 
 # Outils et données
 ### Énergie en exploitation des bâtiments
+
+<div class="tool-grid">
+
+  <div class="tool-card">
+    <div class="status-badge stable">Stable</div>
+    <h3>EcoDynElec</h3>
+    <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
+    <div class="card-links">
+      <a href="#" class="btn-github">GitHub</a>
+      <a href="#" class="btn-demo">[Outil Web](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)</a>
+    </div>
+  </div>
+
+</div>
+
 ##### [EcoDynElec](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)
 _ACV dynamique_, _réseau électrique_
-
-Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.
 
 
 # Résultats de recherche
@@ -27,11 +40,11 @@ _réemploi_, _circularité_, _cas d'études_
 
   <div class="tool-card">
     <div class="status-badge stable">Stable</div>
-    <h3>Calculateur ACV-SIA</h3>
-    <p>Outil d'estimation rapide de l'énergie grise et du carbone selon la norme SIA 2032.</p>
+    <h3>EcoDynElec</h3>
+    <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
     <div class="card-links">
       <a href="#" class="btn-github">GitHub</a>
-      <a href="#" class="btn-demo">Démo</a>
+      <a href="#" class="btn-demo">Outil Web</a>
     </div>
   </div>
 
