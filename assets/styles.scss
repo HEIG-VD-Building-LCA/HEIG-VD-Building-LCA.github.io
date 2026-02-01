@@ -1,4 +1,10 @@
-<style>
+---
+# Ces tirets vides indiquent à Jekyll de traiter ce fichier
+---
+
+@import "alembic";
+
+// Vos styles personnalisés pour la grille d'outils
 .tool-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -13,6 +19,7 @@
   background: #fff;
   transition: transform 0.2s, box-shadow 0.2s;
   position: relative;
+  color: #333; // Pour s'assurer que le texte est lisible
 }
 
 .tool-card:hover {
@@ -40,20 +47,12 @@
 }
 
 .btn-github, .btn-demo {
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 0.9rem;
   padding: 6px 12px;
   border-radius: 4px;
   border: 1px solid #333;
 }
 
-.btn-github { background: #24292e; color: #fff; }
-.btn-demo { background: #fff; color: #24292e; }
-</style>
-
----
-title: false
-styles: true
----
-
-@import "alembic";
+.btn-github { background: #24292e; color: #fff !important; }
+.btn-demo { background: #fff; color: #24292e !important; }
