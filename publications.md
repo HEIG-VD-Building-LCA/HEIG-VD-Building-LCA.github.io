@@ -12,11 +12,10 @@ permalink: /publications/
             
             
             <article class="citation-item">
-                <div class="citation-text">Lasvaux, S., Frossard, M., 
-Demonchy, G., Müller, K., Bofinger, C., Rudolf, B., Pfäffli, K., Zea, 
-E., Xiong, S., &amp; Habert, G. (2025). Reuse-LCA – Identification of 
-the reduction potential of the environmental impacts of Swiss buildings,
- through the material reuse. <a href="https://www.aramis.admin.ch/Grunddaten/?ProjectID=48238" target="_blank" rel="noopener noreferrer">https://www.aramis.admin.ch/Grunddaten/?ProjectID=48238</a></div>
+                <div class="citation-text">
+                Lasvaux, S., Frossard, M., Demonchy, G., Müller, K., Bofinger, C., Rudolf, B., Pfäffli, K., Zea, E., Xiong, S., &amp; Habert, G. (2025). Reuse-LCA – Identification of the reduction potential of the environmental impacts of Swiss buildings, through the material reuse. 
+                <a href="https://www.aramis.admin.ch/Grunddaten/?ProjectID=48238" target="_blank" rel="noopener noreferrer">https://www.aramis.admin.ch/Grunddaten/?ProjectID=48238</a>
+                </div>
                 <div class="citation-meta">
                     <span class="citation-type">report</span>
                 </div>
