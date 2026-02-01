@@ -107,6 +107,7 @@
 
 .tool-card p {
   margin-bottom: 8px; /* Réduit l'espace sous la description principale */
+    padding-top: 0px;
 }
 
 /* Style pour les mots-clés en italique */
@@ -152,7 +153,7 @@
   display: flex;
   align-items: center; /* Centre verticalement l'image et le texte */
   gap: 10px;           /* Espace entre l'image et le titre */
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .tool-logo {
