@@ -39,7 +39,8 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
   </div>
     <div class="tool-citation">
       <strong>Publication :</strong> <br>
-      <em>https://doi.org/10.1016/j.softx.2023.101485</em>
+      <em>
+        Lédée, F., Padey, P., Goulouti, K., Lasvaux, S., & Beloin-Saint-Pierre, D. (2023). EcoDynElec: Open Python package to create historical profiles of environmental impacts from regional electricity mixes. SoftwareX, 23, 101485. [https://doi.org/10.1016/j.softx.2023.101485](https://doi.org/10.1016/j.softx.2023.101485)</em>
     </div>
   </div>
 
