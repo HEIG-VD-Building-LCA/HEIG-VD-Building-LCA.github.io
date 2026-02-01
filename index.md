@@ -52,15 +52,14 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     <h3>EcoDynElec</h3>
   </div>
 
-  <div class="tool-meta">
-    <small>Mise à jour : <span class="gh-date" data-repo="HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io" data-path="tools/transport_LCA_tool.xlsx">...</span></small><br>
-    <small>Taille : <span class="gh-size" data-repo="HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io" data-path="tools/transport_LCA_tool.xlsx">...</span></small>
-  </div>
-
   <div class="card-links">
     <a href="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io/main/tools/transport_LCA_tool.xlsx" class="btn-download" download>
       Télécharger
     </a>
+  </div>
+  <div class="tool-meta">
+    <small>Mise à jour : <span class="gh-date" data-repo="HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io" data-path="tools/transport_LCA_tool.xlsx">...</span></small><br>
+    <small>Taille : <span class="gh-size" data-repo="HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io" data-path="tools/transport_LCA_tool.xlsx">...</span></small>
   </div>
 </div>
 
