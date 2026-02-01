@@ -61,10 +61,6 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 </div>
 
 # Résultats de recherche
-##### Reuse-LCA - Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses
-_réemploi_, _circularité_, _cas d'études_
-- [Rapport du projet sur Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)
-- [Visualisation Web des résultats de bâtiment](https://heig-vd-building-lca.github.io/Reuse-LCA)
 
 <div class="tool-grid">
   <div class="tool-card">
