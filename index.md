@@ -25,6 +25,24 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
 
 </div>
 
+<div class="tool-card">
+    <div class="status-badge stable">Stable</div>
+    <h3>Calculateur ACV-SIA</h3>
+    <p>Outil d'estimation rapide de l'énergie grise et du carbone selon la norme SIA 2032.</p>
+    
+    <p class="tool-keywords"><em>Mots-clés : SIA 2032, KBOB, Matériaux, Suisse Romande</em></p>
+    
+    <div class="tool-citation">
+      <strong>Merci de citer :</strong> <br>
+      <em>Jean, A. et al. (2024). "Open-source LCA for Swiss Buildings". Journal of Physics, DOI: 10.1234/example.</em>
+    </div>
+
+    <div class="card-links">
+      <a href="#" class="btn-github">GitHub</a>
+      <a href="#" class="btn-demo">Accéder à l'outil</a>
+    </div>
+  </div>
+
 ##### [EcoDynElec](https://huggingface.co/spaces/Building-Energy-LCA-HEIG-VD/EcoDynElec)
 _ACV dynamique_, _réseau électrique_
 
