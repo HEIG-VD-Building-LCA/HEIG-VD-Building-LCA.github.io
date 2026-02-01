@@ -9,10 +9,8 @@ excerpt: "Portail de ressources de l'Institut des Énergies (HEIG-VD). Nous dév
 Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan et analyse de cycle de vie (ACV) pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande, en accord avec les normes SIA 2032, 390/1 et les données KBOB.
 
 # Outils et données
-### Énergie en exploitation des bâtiments
 
 <div class="tool-grid">
-
   <div class="tool-card">
     <div class="card-header">
       <img src="https://raw.githubusercontent.com/HEIG-VD-Building-LCA/EcoDynElec/refs/heads/main/docs/images/Logo_colored_variant.png"
@@ -60,7 +58,6 @@ Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche
     <small>Taille : <span class="gh-size" data-repo="HEIG-VD-Building-LCA/HEIG-VD-Building-LCA.github.io" data-path="tools/transport_LCA_tool.xlsx">...</span></small>
   </div>
 </div>
-
 </div>
 
 # Résultats de recherche
@@ -69,36 +66,34 @@ _réemploi_, _circularité_, _cas d'études_
 - [Rapport du projet sur Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)
 - [Visualisation Web des résultats de bâtiment](https://heig-vd-building-lca.github.io/Reuse-LCA)
 
-
 <div class="tool-grid">
-
   <div class="tool-card">
-    <div class="status-badge stable">Stable</div>
-    <h3>EcoDynElec</h3>
-    <p>Connaître les impacts carbone de l'électricité consommée en Suisse (mais aussi en France, Allemagne, Italie, Autriche), heure par heure depuis 2016.</p>
-    <div class="card-links">
-      <a href="#" class="btn-github">GitHub</a>
-      <a href="#" class="btn-demo">Outil Web</a>
+    <div class="card-header">
+      <h3>Reuse-LCA (OFEN 2021-2025)</h3>
     </div>
+    <p></p>
+    <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Méthodologie ACV</em></p>
+    <div class="card-links">
+      <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
+         class="btn-demo" 
+         target="_blank" 
+         rel="noopener noreferrer">
+         Visualisation Web des résultats
+      </a>
+      <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
+         class="btn-demo" 
+         target="_blank" 
+         rel="noopener noreferrer">
+         Visualisation Web des résultats
+      </a>
   </div>
-
-  <div class="tool-card">
-    <div class="status-badge beta">Beta</div>
-    <h3>Physique-Bâti-Tool</h3>
-    <p>Scripts Python pour la simulation thermique dynamique et l'analyse de sensibilité.</p>
-    <div class="card-links">
-      <a href="#" class="btn-github">GitHub</a>
-    </div>
-  </div>
-
-  <div class="tool-card">
-    <div class="status-badge research">Recherche</div>
-    <h3>Data-KBOB-Viewer</h3>
-    <p>Visualisation interactive des données environnementales KBOB pour les matériaux.</p>
-    <div class="card-links">
-      <a href="#" class="btn-github">GitHub</a>
-      <a href="#" class="btn-demo">App</a>
-    </div>
+    <details class="tool-citation">
+      <summary><strong>Publication</strong></summary>
+      <p>
+      Lédée, F., Padey, P., Goulouti, K., Lasvaux, S., & Beloin-Saint-Pierre, D. (2023). EcoDynElec: Open Python package to create historical profiles of environmental impacts from regional electricity mixes. SoftwareX, 23, 101485. 
+      <a href="https://doi.org/10.1016/j.softx.2023.101485" target="_blank" rel="noopener">DOI: 10.1016/j.softx.2023.101485</a>
+      </p>
+    </details>
   </div>
 
 </div>
