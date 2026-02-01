@@ -6,7 +6,7 @@ feature_text: |
   Outils _open-source_, données, résultats de recherche, formation
 excerpt: "Portail de ressources de l'Institut des Énergies (HEIG-VD). Nous développons des solutions _open-source_ pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande (SIA, KBOB)"
 ---
-Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan et analyse de cycle de vie (ACV) pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande en accord avec les normes SIA 2032, 390/1 et les données KBOB.
+Portail de ressources de l'[Institut des Énergies](https://heig-vd.ch/recherche/instituts/ie) ([HEIG-VD](https://heig-vd.ch/)). Nous développons des solutions _open-source_ en écobilan et analyse de cycle de vie (ACV) pour faciliter la décarbonation et l'optimisation environnementale des bâtiments en Suisse Romande, en accord avec les normes SIA 2032, 390/1 et les données KBOB.
 
 # Outils et données
 ### Énergie en exploitation des bâtiments
