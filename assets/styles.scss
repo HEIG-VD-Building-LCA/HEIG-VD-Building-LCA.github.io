@@ -96,3 +96,24 @@
 }
 .btn-github { background: #24292e; color: #fff !important; }
 .btn-demo { background: #fff; color: #24292e !important; }
+
+/* Alignement de l'image et du titre dans la carte */
+.card-header {
+  display: flex;
+  align-items: center; /* Centre verticalement l'image et le texte */
+  gap: 15px;           /* Espace entre l'image et le titre */
+  margin-bottom: 15px;
+}
+
+.tool-logo {
+  width: 45px;         /* Taille de l'icône */
+  height: 45px;
+  object-fit: contain; /* Évite de déformer l'image */
+  border-radius: 4px;  /* Optionnel : coins arrondis pour l'icône */
+}
+
+.card-header h3 {
+  margin: 0;           /* Supprime les marges par défaut pour un alignement parfait */
+  font-size: 1.2rem;
+  color: #24292e;      /* Couleur sombre type GitHub */
+}
