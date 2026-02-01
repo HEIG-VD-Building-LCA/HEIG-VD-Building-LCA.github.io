@@ -60,7 +60,7 @@
   gap: 10px;
 }
 
-.btn-github {
+.btn-github, .btn-demo {
   text-decoration: none !important;
   font-size: 0.9rem;
   padding: 6px 12px;
@@ -68,17 +68,8 @@
   border: 1px solid #333;
 }
 
-.btn-demo {
-  background-color: #e1251b !important; /* Le rouge HEIG-VD */
-  color: white !important;
-  border: none !important;
-  font-weight: bold;
-  padding: 8px 16px !important;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-  display: inline-flex;
-  align-items: center;
-}
+.btn-github { background: #24292e; color: #fff !important; }
+.btn-demo { background: #e1251b; color: #24292e !important;   transition: all 0.3s ease}
 
 .btn-demo:hover {
   background-color: #b31d15 !important; /* Un rouge plus sombre au survol */
@@ -134,8 +125,7 @@
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
-.btn-github { background: #24292e; color: #fff !important; }
-.btn-demo { background: #fff; color: #24292e !important; }
+
 
 /* Alignement de l'image et du titre dans la carte */
 .card-header {
