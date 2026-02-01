@@ -72,12 +72,11 @@
 .btn-demo { background: #FBB13C; color: #24292e !important;   transition: all 0.3s ease}
 
 .btn-demo:hover {
-  background-color: #b31d15 !important; /* Un rouge plus sombre au survol */
+  background-color: #ffc752 !important;
   transform: translateY(-1px);
   box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
-/* Ajout d'une petite flèche après le texte pour l'engagement */
 .btn-demo::after {
   content: " →";
   margin-left: 8px;
