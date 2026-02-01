@@ -4,10 +4,18 @@
 
 @import "alembic";
 
-.site-logo {
-  height: 60px; /* Ajustez selon vos besoins */
-  width: auto;
-  display: block;
+/* Forcer l'affichage du logo de l'institut */
+.site-logo, .logo {
+    display: inline-block !important;
+    height: 50px !important;   /* Fixe la hauteur */
+    width: auto !important;     /* Laisse la largeur s'adapter proportionnellement */
+    max-width: 250px !important; /* Empêche qu'il ne prenne toute la page sur mobile */
+    vertical-align: middle;
+}
+
+/* Supprime le texte alternatif qui s'affiche par-dessus si l'image charge mal */
+.site-title a {
+    text-indent: 0;
 }
 
 // Vos styles personnalisés pour la grille d'outils
