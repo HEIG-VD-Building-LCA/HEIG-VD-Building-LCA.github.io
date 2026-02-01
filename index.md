@@ -71,7 +71,9 @@ _réemploi_, _circularité_, _cas d'études_
     <div class="card-header">
       <h3>Reuse-LCA - Identification du potentiel de réduction des impacts environnementaux lié au réemploi des matériaux pour les bâtiments suisses</h3>
     </div>
-    <p>Projet OFEN (2021-2025). [Rapport en anglais disponible sur Aramis](https://www.aramis.admin.ch/Texte/?ProjectID=48238)</p>
+    <p>Projet OFEN (2021-2025). <a href="https://www.aramis.admin.ch/Texte/?ProjectID=48238" target="_blank" rel="noopener noreferrer">
+        Rapport en anglais disponible sur Aramis
+      </a></p>
     <p class="tool-keywords"><em>Mots-clés : Réemploi, Circularité, Cas pilotes, Méthodologie ACV</em></p>
     <div class="card-links">
       <a href="https://heig-vd-building-lca.github.io/Reuse-LCA" 
